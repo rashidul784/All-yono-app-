@@ -1,0 +1,8 @@
+{
+  "name": "BonusPlay Directory",
+  "description": "App directory and listing store for bonus applications and games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
